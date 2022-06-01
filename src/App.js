@@ -2,13 +2,11 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  
-  useEffect(() => {
-    document.title = "MM - About"
-  }, [])
 
   return (
+    
     <div className="App">
+      <title>MM - AboutMe</title>
       <h1> Hello world!!!1111oneoneoe</h1>
     </div>
   );
