@@ -24,7 +24,7 @@ class _MyHomePageState extends State<MyHomePage> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Text("Work In Progress", style: TextStyle(inherit: false, fontSize: 100),),
-          Text("Plese be patient", style: TextStyle(inherit: false, fontSize: 25),),
+          Text("Please be patient", style: TextStyle(inherit: false, fontSize: 25),),
         ]
       )
     );
