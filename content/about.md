@@ -2,14 +2,15 @@
 title: "About"
 date: 2022-07-21T23:07:11+02:00
 draft: false
-tags: ['website']
 ---
-This website is powered by:
+# Hi
+My name is Marcin, I'm IT enthusiast based in Wrocław. Curently i'm finishing my engineering degree and looking for job oportunities.
+## My intrests
+I'm following technology updates, my main focus are 3 topics
+- Sorftware engineering
+- Linux administration
+- Security
 
-| Resource | Links |
-| ----------- | ----------- |
-| Virtual Machine | https://www.vultr.com |
-| Domain | https://www.epik.com/ |
-| Nginx | https://www.nginx.com/|
-| HUGO | https://gohugo.io |
-| Coder theme for HUGO | https://github.com/luizdepra/hugo-coder/ |
+and i plan to tie my professional carrer with one of this topics.
+## Hobbies
+Beside computers I like to spend my free time doing sports, mostly running and cycling. I participate in long distance marches and bike ultra marathons. 

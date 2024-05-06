@@ -1,11 +1,12 @@
-baseURL = 'http://marcin.mielnicz.uk/'
+baseURL = 'http://marcinmielni.github.io/aboutme'
 languageCode = 'en-us'
 title = "MIELNICZ.UK"
 theme = 'coder'
+staticDir: 
 
 [params]
 	author = "Marcin Mielniczuk"
-	info = "Extramural student and begginer programmer"
+	info = "Extramural student and programmer"
 	description = "Marcin Mielniczuk's personal website"
 	avatarurl = "images/avatar.jpg"
 	colorScheme = "light"
@@ -25,11 +26,6 @@ theme = 'coder'
   icon = "fa fa-linkedin fa-2x"
   weight = 2
   url = "https://www.linkedin.com/in/marcinmielni/"
-
-[[menu.main]]
-  name = "Profile"
-  weight = 1
-  url = "profile/"
 
 [[menu.main]]
   name = "Articles"
