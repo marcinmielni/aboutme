@@ -1,8 +1,7 @@
-baseURL = 'http://marcinmielni.github.io/aboutme'
+baseURL = 'https://marcinmielni.github.io/aboutme'
 languageCode = 'en-us'
 title = "MIELNICZ.UK"
 theme = 'coder'
-staticDir: 
 
 [params]
 	author = "Marcin Mielniczuk"
